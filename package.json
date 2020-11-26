@@ -1,6 +1,5 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "learning-redux-toolkit",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.2.5",
